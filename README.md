@@ -1,4 +1,4 @@
-🗺️ Tkinter Map with Path & Satellite View
+## 🗺️ Tkinter Map with Path & Satellite View
 This Python application displays an interactive map using the TkinterMapView library. It provides a GUI for visualizing geographic locations, placing markers, drawing paths, and toggling to satellite view using Google Maps tiles.
 📦 Features
 - Embedded map inside a Tkinter window (no browser required)
